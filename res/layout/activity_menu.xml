@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal">
+
+    <Button
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/round_button"
+            android:text="@string/newGameButton"
+            android:textColor="@android:color/white"
+            android:id="@+id/newGameButton"
+            android:layout_gravity="center"/>
+    <Button
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/secoundary_button"
+            android:textColor="@android:color/white"
+            android:text="@string/howToPlay"
+            android:id="@+id/howToPlayButton" android:layout_gravity="center"/>
+
+</FrameLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snake</string>
+
+    <string name="newGameButton">Új játék</string>
+    <string name="continueGameButton">Folytatás</string>
+    <string name="gameOver">Game Over</string>
+    <string name="howToPlay">Leírás</string>
+    <string name="description">Snake \n
+        Egy kígyót irányítasz a képernyő 4 szélének érintésével.\n
+        A pályán gyümölcsök vannak, melyeket ha megeszel, a kígyó hossza megnő. A játéknak akkor van vége ha a kígyó
+        saját magába fut.\n\n
+        Team.apk
+    </string>
+</resources>
