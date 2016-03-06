@@ -1,6 +1,6 @@
 ### Snake
 
-A base snake game writed by Team.apk (Bence Hornák, Richárd Józsa, Adrián Robotka).
+A base snake game for android writed by Team.apk (Bence Hornák, Richárd Józsa, Adrián Robotka).
 
 ### License
 MIT
